@@ -1,0 +1,47 @@
+﻿{
+  "ContentList": [
+    {
+      "Id": 1,
+      "title": "title1 from diy json",
+      "content": "content1 from diy json",
+      "status": 1,
+      "add_time": "2018-11-21 16:29",
+      "modify_time": null
+    },
+    {
+      "Id": 2,
+      "title": "title2 from diy json",
+      "content": "content2 from diy json",
+      "status": 2,
+      "add_time": "2018-11-22 16:29",
+      "modify_time": null
+    }
+  ],
+  "Content1": {
+    "Id": 6,
+    "title": "title6",
+    "content": "content6",
+    "status": 6,
+    "add_time": "2018-11-21 16:29",
+    "modify_time": null
+  },
+  "ContentList1": [
+    {
+      "Id": 4,
+      "title": "title4 from diy json",
+      "content": "content4 from diy json",
+      "status": 4,
+      "add_time": "2018-11-21 16:29",
+      "modify_time": null
+    },
+    {
+      "Id": 5,
+      "title": "title5 from diy json",
+      "content": "content5 from diy json",
+      "status": 5,
+      "add_time": "2018-11-22 16:29",
+      "modify_time": null
+    }
+  ]
+
+}
